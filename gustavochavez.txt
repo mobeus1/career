@@ -2,7 +2,7 @@ Gustavo Chavez
 847-340-9982
 guschavez01@gmail.com
 www.linkedin.com/in/gustavo-chavez-677827
-https://github.com/mobeus1
+https://github.com/mobeus1/career
 						
 I am a technology leader with a history of creating strong teams to build and operate highly scalable secure technology platforms. I have driven transformation and modernization of legacy technology stacks and infrastructure to operate in the cloud. I am an enabler of continuous integration, continuous delivery, and automation to scale out critical enterprise services, improve service availability, and control costs. I am passionate about optimization of the customer experience to increase product adoption and customer satisfaction.
 
