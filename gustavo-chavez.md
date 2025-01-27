@@ -149,4 +149,4 @@ Associate of Science, Electrical and Electronics Engineering
 ## Licenses & Certifications
 - **ITIL® v3 Foundation** - Pink Elephant    
 - **VMware Certified Professional 5 - Data Center Virtualization (VCP5-DCV)** - Pearson VUE  
-  Issued Apr 2016 - Expires Apr 2018
+  Issued Apr 2016 - Expires Apr 2018    
