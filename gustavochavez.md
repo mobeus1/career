@@ -1,6 +1,5 @@
 # Gustavo Chavez
 
-**Phone:** 1-847-340-9982  
 **Email:** guschavez01@gmail.com  
 **LinkedIn:** [linkedin.com/in/gustavo-chavez-677827](https://www.linkedin.com/in/gustavo-chavez-677827)  
 **GitHub:** [github.com/mobeus1/career](https://github.com/mobeus1/career)  
