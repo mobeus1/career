@@ -2,7 +2,7 @@
 
 **Email:** guschavez01@gmail.com  
 **LinkedIn:** [linkedin.com/in/gustavo-chavez-677827](https://www.linkedin.com/in/gustavo-chavez-677827)  
-**GitHub:** [github.com/mobeus1/career](https://github.com/mobeus1/career)  
+**GitHub:** [github.com/mobeus1/career/gustavochavez.md](https://github.com/mobeus1/career)  
 
 ---
 
